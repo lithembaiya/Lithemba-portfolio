@@ -1,0 +1,14 @@
+
+h2{text-align: center;
+    text-decoration: solid;
+}
+p{
+    font-size: larger;
+}
+
+.nav-link{
+  margin: 10px;
+}
+.container{
+  margin-left: 40px;
+}
